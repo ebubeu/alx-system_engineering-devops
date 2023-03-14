@@ -44,3 +44,10 @@
 
 22-users_and_homes - displays all users and their home directories, sorted by users
 
+100-empty_casks - 
+
+101-gifs - 
+
+102-acrostic - 
+
+103-the_biggest_fan -  
